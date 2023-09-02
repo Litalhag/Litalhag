@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Alt Text]([URL_of_the_GIF](https://github.com/Litalhag/Litalhag/blob/main/Welcome%20to%20my%20github!.gif?raw=true))
+
+
 <!--
 **Litalhag/Litalhag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
