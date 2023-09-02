@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt Text]([URL_of_the_GIF](https://github.com/Litalhag/Litalhag/blob/main/Welcome%20to%20my%20github!.gif?raw=true))
+![Alt Text](https://github.com/Litalhag/Litalhag/blob/main/Welcome%20to%20my%20github!.gif?raw=true)
 
 
 <!--
